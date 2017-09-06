@@ -26,6 +26,6 @@ public class basic extends AppCompatActivity {
         });
     }
 
-    // second activity
+    // second activity dsds
 
 }
